@@ -1,2 +1,18 @@
-# programacion-web-tarea-1-fabian
-Tarea 1 del curso de Programacion Web de la Licenciatura de Sistemas Web de la UNA.
+# Lab 1 - (HTML + CSS)
+Desarrollar el site basado en los wireframes [ Wireframes (HTML + CSS).pdf ]
+
+Puntos a evaluar:
+    - HTML
+        - Head and metadata
+        - Text formatting
+        - Navigation 
+        - Hyperlinks
+        - Structure
+        - Table
+    - CSS
+        - Selector
+        - Cascade
+        - Box Model
+        - Web Fonts
+        - Styling Boxes
+        - CSS Layout
